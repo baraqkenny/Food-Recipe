@@ -28,9 +28,8 @@ body{
     font-size: 2rem;
     margin-bottom: 1rem;
     color: #fff;
-}
-.container{
-  min-height: 100vh;
+  
+  
 }
 
 .meal-container{
@@ -50,6 +49,8 @@ body{
     color: #fff;
     font-family: 'Anton',
     sans-serif;
+    letter-spacing: 4px;
+    font-size: 3rem;
 }
 .meal-search cite{
     font-size: 1rem;
@@ -115,6 +116,7 @@ margin: 2rem 0;
 
 .meal-name{
     padding: 1.5rem 0.5rem;
+    color: #fff;
 }
 
 .meal-name h3{
